@@ -1,9 +1,14 @@
 body {
-  background-color: yellow;
   font-family: "Arial";
   color: purple;
 }
 
+.aboutContainer {
+  display: flex;
+}
+.aboutContainer > div {
+  width: 33%;
+}
 h1 {
   color: black;
   text-align: center;
