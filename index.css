@@ -1,6 +1,3 @@
-h1 {
-  font-family: "Merryweather";
-}
 body {
   font-family: "Arial";
   color: purple;
@@ -12,8 +9,8 @@ body {
 .aboutContainer > div {
   width: 33%;
 }
+
 h1 {
   color: black;
   text-align: center;
-  font-family: "Comic Sans";
 }
