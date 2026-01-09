@@ -1,5 +1,5 @@
 html, body {
-  font-family: "Merryweather", sans-serif;
+  font-family: "Merryweather";
 }
 .aboutContainer {
   display: flex;
@@ -10,12 +10,12 @@ html, body {
 
 h1 {
   color: black;
-  font-family: "Merryweather", sans-serif;
+  font-family: "Merryweather";
   text-align: center;
 }
 h2 {
   color: black;
-  font-family: "Merryweather", sans-serif;
+  font-family: "Merryweather";
   text-align: left;
 }
 </style>
